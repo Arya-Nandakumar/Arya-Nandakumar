@@ -1,7 +1,8 @@
 <h1 align="center">Heyyy 👋, I'm Arya Nandakumar</h1>
 <h3 align="center">A final year undergraduate student who is keen to learn and build tech to elevate people.</h3>
 <img align="right" alt="Coding" width="400" src="assets/chibi.png">
-- 🌱 I’m currently learning **ReactJs and Flutter**
+
+- 🌱 I’m currently learning **React and Flutter**
 
 - 💬 Ask me about **Web Development**
 
