@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **aryapnanda@gmail.com**
-
 - 😄 My pronouns are She/They 
 
 - ⚡ Fun fact **I LOVE MUSIC!**
